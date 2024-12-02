@@ -255,14 +255,14 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 
 少儿,#genre#
 CCTV14,http://111.48.34.237/PLTV/88888888/224/3221230446/1.m3u8
-北京卡酷少儿,http://111.48.34.237/PLTV/88888888/224/3221230040/1.m3u8
-北京卡酷少儿,http://111.48.34.237/PLTV/88888888/224/3221230428/1.m3u8
-湖南金鹰卡通,http://111.48.34.237/PLTV/88888888/224/3221230345/1.m3u8
-湖南金鹰卡通,http://111.48.34.237/PLTV/88888888/224/3221230468/1.m3u8
+卡酷少儿,http://111.48.34.237/PLTV/88888888/224/3221230040/1.m3u8
+卡酷少儿,http://111.48.34.237/PLTV/88888888/224/3221230428/1.m3u8
+金鹰卡通,http://111.48.34.237/PLTV/88888888/224/3221230345/1.m3u8
+金鹰卡通,http://111.48.34.237/PLTV/88888888/224/3221230468/1.m3u8
 动漫秀场,http://111.48.34.237/PLTV/88888888/224/3221230544/1.m3u8
 新动漫,http://111.48.34.237/PLTV/88888888/224/3221230487/1.m3u8
-上海哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-江苏优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
